@@ -36,4 +36,4 @@ If you enjoy Genesis and want to support future plugin development:
 
 ## License
 
-Genesis is provided free of charge by Abyzor Audio.
+Genesis is provided free of charge by Abyzor.
