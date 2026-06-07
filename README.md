@@ -6,6 +6,8 @@ ABYZOR Genesis is a free MIDI pattern generator designed for electronic music pr
 
 ## Download
 
+![GitHub Downloads](https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github)
+
 Download the latest version from:
 
 https://github.com/abyzor/abyzor-genesis/releases/latest
