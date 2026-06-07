@@ -7,7 +7,7 @@
 Generate random melodies and MIDI patterns instantly for Techno, Trance, Psytrance, Drum & Bass, House and other electronic genres.
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github)
-![Release](https://img.shields.io/github/v/release/abyzor/abyzor-genesis)
+![Release]([https://img.shields.io/github/v/release/abyzor/abyzor-genesis](https://img.shields.io/github/v/release/abyzor/abyzor-genesis)
 
 ## Features
 
