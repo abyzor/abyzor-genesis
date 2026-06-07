@@ -1,4 +1,4 @@
-# ABYZOR Genesis
+# ABYZOR Genesis - Free VST
 
 <img width="1101" height="716" alt="ABYZOR Genesis" src="https://github.com/user-attachments/assets/a2928d06-339b-4794-90e3-9b73da34a6e3" />
 
