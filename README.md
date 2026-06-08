@@ -39,9 +39,20 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ---
 
-### Website
+## Community & Resources
 
-https://abyzor.space
+* 🎛 KVR Audio Listing
+  https://www.kvraudio.com/product/abyzor-genesis-by-abyzor
+
+* 📦 GitHub Releases
+  https://github.com/abyzor/abyzor-genesis/releases
+
+* 🌐 Official Website
+  https://abyzor.space
+
+* 💬 Support & Feedback
+  https://abyzor.space/support
+
 
 ---
 
