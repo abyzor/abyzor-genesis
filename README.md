@@ -13,7 +13,7 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 
 ---
 
-Features
+### Features
 
 - MIDI Melody Generation
 - Bassline Generation
@@ -31,7 +31,7 @@ Features
 
 ---
 
-Download
+### Download
 
 Download the latest release:
 
@@ -39,31 +39,31 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ---
 
-Website
+### Website
 
 https://abyzor.space
 
 ---
 
-Support & Feedback
+### Support & Feedback
 
 Genesis is actively evolving and community feedback helps shape future updates.
 
-🐛 Report a Bug
+### 🐛 Report a Bug
 
 https://github.com/abyzor/abyzor-genesis/issues
 
-💡 Request a Feature
+### 💡 Request a Feature
 
 https://github.com/abyzor/abyzor-genesis/issues
 
-💬 Discussions
+### 💬 Discussions
 
 https://github.com/abyzor/abyzor-genesis/discussions
 
 ---
 
-Support Abyzor
+### Support Abyzor
 
 If you enjoy Genesis and want to support future plugin development:
 
@@ -71,7 +71,7 @@ If you enjoy Genesis and want to support future plugin development:
 
 ---
 
-License
+### License
 
 Genesis is provided free of charge by Abyzor.
 
