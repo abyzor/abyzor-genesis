@@ -3,8 +3,12 @@
 ## Free VST3 MIDI Generator for Electronic Music Producers.
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
+<img width="800" height="509" alt="Ableton_Live_12_Suite_OkzU6A6aeV-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/680d3df7-fcf7-4d82-b9d9-4d16073eab01" />
 
-<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/3ae3d7bb-b1eb-49b5-ab7b-2e38c879d6af" /><p align="center">
+
+
+<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/3ae3d7bb-b1eb-49b5-ab7b-2e38c879d6af![Uploading Ableton_Live_12_Suite_OkzU6A6aeV-ezgif.com-video-to-gif-converter.gif…]()
+" /><p align="center">
   <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
   <img src="https://img.shields.io/badge/version-v1.0.1-blue" />
   <img src="https://img.shields.io/badge/price-Free-success" />
