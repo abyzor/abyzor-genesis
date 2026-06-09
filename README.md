@@ -15,24 +15,24 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 
 ### Features
 
-• Melody Generation
-• Bassline Generation
-• Chord Progression Generation
-• Arpeggio Generation
-• 10 Electronic Music Genres
-• 50+ Presets
-• Editable MIDI Piano Roll
-• MIDI Drag & Drop
-• Playback Preview with Live Playhead
-• Active Note Highlighting
-• Host-Synced Metronome
-• Scale and Key Selection
-• Deterministic Seed System
-• Humanization Controls
-• Seed-Based Idea Reproduction
-• Fast Workflow
-• Lightweight Design
-• Free Download
+- Melody Generation
+- Bassline Generation
+- Chord Progression Generation
+- Arpeggio Generation
+- 10 Electronic Music Genres
+- 50+ Presets
+- Editable MIDI Piano Roll
+- MIDI Drag & Drop
+- Playback Preview with Live Playhead
+- Active Note Highlighting
+- Host-Synced Metronome
+- Scale and Key Selection
+- Deterministic Seed System
+- Humanization Controls
+- Seed-Based Idea Reproduction
+- Fast Workflow
+- Lightweight Design
+- Free Download
 
 ---
 
