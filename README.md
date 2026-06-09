@@ -42,11 +42,7 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 ## Community & Resources
 
 * 🎛 KVR Audio Listing
-  https://www.kvraudio.com/product/abyzor-genesis-by-abyzor
-
-Enjoying Genesis?
-
-Leave a review on KVR Audio and help us improve future updates.
+https://www.kvraudio.com/product/abyzor-genesis-by-abyzor
 
 
 * 📦 GitHub Releases
