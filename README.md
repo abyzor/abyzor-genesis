@@ -57,6 +57,12 @@ https://www.kvraudio.com/product/abyzor-genesis-by-abyzor
 
 ---
 
+### Enjoying Genesis?
+
+Leave a review on KVR Audio and help us improve future updates.
+
+___
+
 ### Support & Feedback
 
 Genesis is actively evolving and community feedback helps shape future updates.
