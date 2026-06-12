@@ -44,8 +44,6 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ---
 
----
-
 ### Platform
 - **Windows** (VST3) — available now
 - **macOS** — in development
