@@ -29,6 +29,7 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 - Scale-Aware Generation
 - Pitch Variety Enhancement
 - Melodic Gravity for More Natural Phrases
+- Random Generator for instant ideas
 - Fast Creative Workflow
 - Lightweight CPU Usage
 - Windows & macOS Support
