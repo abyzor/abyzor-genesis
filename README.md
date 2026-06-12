@@ -6,7 +6,7 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 
 <img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/db295be9-d119-4556-947b-48882fe6107e" /><p align="center">
   <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-  <img src="https://img.shields.io/badge/version-v1.1.0-blue" />
+  <img src="https://img.shields.io/badge/version-v1.2.0-blue" />
   <img src="https://img.shields.io/badge/price-Free-success" />
   <img src="https://img.shields.io/badge/VST3-Windows-purple" />
   <img src="https://img.shields.io/badge/macOS-coming_soon-lightgrey" />
