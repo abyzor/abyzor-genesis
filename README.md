@@ -9,7 +9,7 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 <img src="https://img.shields.io/badge/version-v1.2.1-blue" />
 <img src="https://img.shields.io/badge/price-Free-success" />
 <img src="https://img.shields.io/badge/Windows-VST3-purple" />
-<img src="https://img.shields.io/badge/macOS-VST3_|_AU-success" />
+<img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
 </p>
 
 ---
