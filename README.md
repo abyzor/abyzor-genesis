@@ -5,11 +5,11 @@
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
 <img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/f04d75be-5a7b-4137-9d34-7740fb8454e5" /><p align="center">
-  <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-  <img src="https://img.shields.io/badge/version-v1.2.0-blue" />
-  <img src="https://img.shields.io/badge/price-Free-success" />
-  <img src="https://img.shields.io/badge/VST3-Windows-purple" />
-  <img src="https://img.shields.io/badge/macOS-coming_soon-lightgrey" />
+<img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
+<img src="https://img.shields.io/badge/version-v1.2.1-blue" />
+<img src="https://img.shields.io/badge/price-Free-success" />
+<img src="https://img.shields.io/badge/Windows-VST3-purple" />
+<img src="https://img.shields.io/badge/macOS-VST3_|_AU-success" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ### Platform
 - **Windows** (VST3) — available now
-- **macOS** — in development
+- **macOS** — (VST3 & AU) — available now
 
 ---
 
