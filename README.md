@@ -97,7 +97,7 @@ https://github.com/abyzor/abyzor-genesis/discussions
 
 If you enjoy Genesis and want to support future plugin development:
 
-☕ [https://abyzor.gumroad.com/coffee](https://ko-fi.com/abyzor)
+☕ https://ko-fi.com/abyzor
 
 ---
 
