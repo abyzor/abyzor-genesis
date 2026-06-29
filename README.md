@@ -4,9 +4,9 @@
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
-<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/f7c7f350-e92b-46ad-82e0-3741dde4c6b9" /><p align="center">
+<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/885f1cd1-787f-4f32-8221-17fd9d460fa6" /><p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-<img src="https://img.shields.io/badge/version-v1.2.1-blue" />
+<img src="https://img.shields.io/badge/version-v1.5.0-blue" />
 <img src="https://img.shields.io/badge/price-Free-success" />
 <img src="https://img.shields.io/badge/Windows-VST3-purple" />
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
@@ -16,24 +16,30 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 
 ### Features
 
-- Generate Melodies, Basslines, Chords & Arpeggios
-- 10 Electronic Music Genres
-- 50+ Production-Ready Presets
-- Editable MIDI Piano Roll
-- Real-Time Pattern Editing
-- Manual Edit Protection
-- Deterministic Seed System
-- Recreate Ideas with Seed Sharing
-- One-Click Random Inspiration Generator
-- Host-Synced Playback & Metronome
-- Scale-Aware Generation
-- Pitch Variety Enhancement
-- Melodic Gravity for More Natural Phrases
-- Random Generator for instant ideas
-- Fast Creative Workflow
-- Lightweight CPU Usage
-- Windows & macOS Support
-- Free Download
+* Generate Melodies, Basslines, Chords & Arpeggios
+* 10 Electronic Music Genres
+* 50+ Production-Ready Presets
+* Editable MIDI Piano Roll
+* Real-Time Pattern Editing
+* Manual Edit Protection
+* Groove Templates (Straight, Swing, House, DnB & more)
+* Melodic Contours (Arch, Ascend, Descend, Plateau & Valley)
+* Tension Macro for Instant Energy Control
+* Phrase-Aware Musical Generation
+* Scale-Aware Generation
+* Beat & Scale Degree Weighting
+* Smarter Harmonic Resolution
+* Pitch Variety Enhancement
+* Melodic Gravity for More Natural Phrases
+* Deterministic Seed System
+* Recreate & Share Ideas with Seeds
+* One-Click Random Inspiration
+* Host-Synced Playback & Metronome
+* Built-in Audio Preview
+* MIDI Drag & Drop Export
+* Lightweight CPU Usage
+* Windows & macOS Support
+* Free Download
 
 ---
 
