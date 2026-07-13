@@ -4,9 +4,11 @@
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
-<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/885f1cd1-787f-4f32-8221-17fd9d460fa6" /><p align="center">
+<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/78ba4406-3083-45a7-8830-5b4d9316eabd" />
+
+<p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-<img src="https://img.shields.io/badge/version-v1.5.0-blue" />
+<img src="https://img.shields.io/badge/version-v1.7.0-blue" />
 <img src="https://img.shields.io/badge/price-Free-success" />
 <img src="https://img.shields.io/badge/Windows-VST3-purple" />
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
@@ -14,36 +16,72 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 
 ---
 
-### Features
+## Features
 
-* Generate Melodies, Basslines, Chords & Arpeggios
-* 10 Electronic Music Genres
-* 50+ Production-Ready Presets
-* Editable MIDI Piano Roll
-* Real-Time Pattern Editing
-* Manual Edit Protection
-* Groove Templates (Straight, Swing, House, DnB & more)
-* Melodic Contours (Arch, Ascend, Descend, Plateau & Valley)
-* Tension Macro for Instant Energy Control
-* Phrase-Aware Musical Generation
-* Scale-Aware Generation
-* Beat & Scale Degree Weighting
-* Smarter Harmonic Resolution
-* Pitch Variety Enhancement
-* Melodic Gravity for More Natural Phrases
-* Deterministic Seed System
-* Recreate & Share Ideas with Seeds
-* One-Click Random Inspiration
-* Host-Synced Playback & Metronome
-* Built-in Audio Preview
-* MIDI Drag & Drop Export
-* Lightweight CPU Usage
-* Windows & macOS Support
-* Free Download
+### 🎼 MIDI Generation
+
+- Generate Melodies, Basslines, Chords & Arpeggios
+- 10 Electronic Music Genres
+- 50+ Production-Ready Presets
+- **Harmonic Timeline** with genre-aware chord progressions
+- Melody, Bassline & Arpeggio follow the active chord of each bar
+- **Style Variants (Profiles A–H)** for every preset
+- Phrase-Aware Musical Generation
+- Scale-Aware Generation
+- Beat & Scale Degree Weighting
+- Smarter Harmonic Resolution
+- **Dissonance Budget** for more musical note choices
+- **Duration Profiles** per genre (Techno, House, Trance, DnB, Ambient, Cinematic...)
+- **Phrase Extensions** for more natural loop endings
+- Improved Chord Generation with automatic validation and safe fallback
+- Pitch Variety Enhancement
+- Melodic Gravity for More Natural Phrases
+
+### 🎛 Creative Controls
+
+- Groove Templates (Straight, Swing, House, DnB & more)
+- Melodic Contours (Arch, Ascend, Descend, Plateau & Valley)
+- Tension Macro for Instant Energy Control
+- Deterministic Seed System
+- Recreate & Share Ideas with Seeds
+- One-Click Random Inspiration
+
+### 🎹 Piano Roll & History
+
+- Editable MIDI Piano Roll
+- Real-Time Pattern Editing
+- Manual Edit Protection
+- **NEW:** History Panel
+- Save up to **20** favorite patterns
+- Pattern labels
+- Mini MIDI previews
+- Play / Stop saved patterns
+- Drag & Drop directly from History
+- Edit saved patterns
+- Delete saved patterns
+- History automatically saved inside your DAW project
+
+### 🔊 Audio Preview
+
+- Built-in Audio Preview
+- **Genre & Role-Based Preview Instruments**
+- Dedicated sounds for Melody, Bassline, Chords & Arpeggio
+- Improved stereo width and detuned synth sounds
+- Voice-specific EQ
+- 32-voice preview engine
+- Reverb & Limiter
+- Host-Synced Playback & Metronome
+
+### 🚀 Workflow
+
+- MIDI Drag & Drop Export
+- Lightweight CPU Usage
+- Windows & macOS Support
+- Free Download
 
 ---
 
-### Download
+## Download
 
 Download the latest release:
 
@@ -51,55 +89,58 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ---
 
-### Platform
-- **Windows** (VST3) — available now
-- **macOS** — (VST3 & AU) — available now
+## Platform
+
+- ✅ **Windows** (VST3)
+- ✅ **macOS** (VST3 & AU)
 
 ---
 
-## Community & Resources
+# Community & Resources
 
-* 🎛 KVR Audio Listing
+### 🎛 KVR Audio
+
 https://www.kvraudio.com/product/abyzor-genesis-by-abyzor
 
+### 📦 GitHub Releases
 
-* 📦 GitHub Releases
-  https://github.com/abyzor/abyzor-genesis/releases
+https://github.com/abyzor/abyzor-genesis/releases
 
-* 🌐 Official Website
-  https://abyzor.space
+### 🌐 Official Website
 
-* 💬 Support & Feedback
-  https://abyzor.space/support
+https://abyzor.space
 
+### 💬 Support
+
+https://abyzor.space/support
 
 ---
 
-### Enjoying Genesis?
+# Enjoying Genesis?
 
-Leave a review on KVR Audio and help us improve future updates.
+Leave a review on **KVR Audio** and help shape future updates.
 
-___
+---
 
-### Support & Feedback
+# Support & Feedback
 
-Genesis is actively evolving and community feedback helps shape future updates.
+Genesis is actively evolving, and community feedback drives new features.
 
-### 🐛 Report a Bug
-
-https://github.com/abyzor/abyzor-genesis/issues
-
-### 💡 Request a Feature
+## 🐛 Report a Bug
 
 https://github.com/abyzor/abyzor-genesis/issues
 
-### 💬 Discussions
+## 💡 Request a Feature
+
+https://github.com/abyzor/abyzor-genesis/issues
+
+## 💬 Discussions
 
 https://github.com/abyzor/abyzor-genesis/discussions
 
 ---
 
-### Support Abyzor
+# Support Abyzor
 
 If you enjoy Genesis and want to support future plugin development:
 
@@ -107,8 +148,8 @@ If you enjoy Genesis and want to support future plugin development:
 
 ---
 
-### License
+# License
 
 Genesis is provided free of charge by Abyzor.
 
-Generate. Evolve. Create.
+**Generate. Evolve. Create.**
