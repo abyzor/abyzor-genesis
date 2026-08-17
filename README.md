@@ -4,15 +4,29 @@
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
-<img width="1095" height="715" alt="product" src="https://github.com/user-attachments/assets/78ba4406-3083-45a7-8830-5b4d9316eabd" />
+<img width="1327" height="851" alt="ABYZOR Genesis V2" src="https://github.com/user-attachments/assets/a733e7f0-243b-4aac-beab-24cf3f31d306" />
 
 <p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-<img src="https://img.shields.io/badge/version-v1.7.0-blue" />
+<img src="https://img.shields.io/badge/version-v2.0.0-blue" />
 <img src="https://img.shields.io/badge/price-Free-success" />
 <img src="https://img.shields.io/badge/Windows-VST3-purple" />
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
 </p>
+
+---
+
+# Genesis V2 — The Ecosystem Update
+
+Genesis V2 is a major evolution of ABYZOR Genesis.
+
+More than a MIDI generator, Genesis is the **starting point of the ABYZOR creative ecosystem** — designed to help producers generate ideas, explore possibilities, develop musical concepts, save their work, and move directly into their DAW.
+
+### The workflow
+
+**Generate → Hear → Explore → Edit → Save → Recall → Drag to DAW**
+
+Genesis remains **FREE FOREVER**.
 
 ---
 
@@ -31,28 +45,100 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 - Beat & Scale Degree Weighting
 - Smarter Harmonic Resolution
 - **Dissonance Budget** for more musical note choices
-- **Duration Profiles** per genre (Techno, House, Trance, DnB, Ambient, Cinematic...)
+- **Duration Profiles** per genre
 - **Phrase Extensions** for more natural loop endings
 - Improved Chord Generation with automatic validation and safe fallback
 - Pitch Variety Enhancement
 - Melodic Gravity for More Natural Phrases
 
+### 💡 4 Ideas
+
+Explore multiple musical directions at once.
+
+- Generate **4 ideas** in a single action
+- Compare ideas visually
+- Select the idea with the most potential
+- Adopt the selected idea as your active pattern
+
+### 🔒 Locks
+
+Keep what works and regenerate what doesn't.
+
+- **LOCK RHYTHM**
+- **LOCK PITCH**
+- Preserve selected musical characteristics while generating new material
+
+### 🌀 Morph
+
+#### MORPH TO
+
+Move an idea toward another musical style.
+
+- Cross-style transformation
+- StyleDNA-based morphing
+- Explore new directions without starting from scratch
+
+### 🌳 Ancestry
+
+Track how your ideas evolve.
+
+Genesis V2 keeps an ancestry tree of your creative process, including:
+
+- Generate
+- Mutate
+- Manual Edit
+- Import
+- Variation
+
+Follow an idea from its origin through its different creative stages.
+
+### 🌐 Seed Share
+
+Share and recreate musical ideas using deterministic seeds.
+
+- Deterministic 25-character seeds
+- Share ideas through URLs
+- Recreate shared ideas inside Genesis
+
+Example:
+
+`https://abyzor.space/s/{seed}`
+
 ### 🎛 Creative Controls
 
-- Groove Templates (Straight, Swing, House, DnB & more)
-- Melodic Contours (Arch, Ascend, Descend, Plateau & Valley)
+- Groove Templates
+- Straight, Swing, House, DnB & more
+- Melodic Contours
+- Arch, Ascend, Descend, Plateau & Valley
 - Tension Macro for Instant Energy Control
 - Deterministic Seed System
-- Recreate & Share Ideas with Seeds
 - One-Click Random Inspiration
+- **Bass Motion**
+  - Auto
+  - Low Only
+  - Root + Fifth
+  - Octave Both
 
-### 🎹 Piano Roll & History
+---
+
+## 🎹 Piano Roll & History
+
+Genesis V2 includes an improved editing and idea-management workflow.
+
+### Piano Roll
 
 - Editable MIDI Piano Roll
 - Real-Time Pattern Editing
+- Real keyboard sidebar
 - Manual Edit Protection
-- **NEW:** History Panel
-- Save up to **20** favorite patterns
+- Improved visual feedback
+- Improved pattern preview
+
+### History
+
+Save and revisit your ideas without losing your creative direction.
+
+- Save up to **20 patterns**
 - Pattern labels
 - Mini MIDI previews
 - Play / Stop saved patterns
@@ -61,7 +147,11 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 - Delete saved patterns
 - History automatically saved inside your DAW project
 
-### 🔊 Audio Preview
+---
+
+## 🎧 Audio Preview
+
+Hear ideas before exporting them.
 
 - Built-in Audio Preview
 - **Genre & Role-Based Preview Instruments**
@@ -71,17 +161,88 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 - 32-voice preview engine
 - Reverb & Limiter
 - Host-Synced Playback & Metronome
-
-### 🚀 Workflow
-
-- MIDI Drag & Drop Export
-- Lightweight CPU Usage
-- Windows & macOS Support
-- Free Download
+- Improved playback transitions and processing
 
 ---
 
-## Download
+## 🎨 Expanded Style System
+
+Genesis V2 expands the creative library with:
+
+**10 categories · 51 presets**
+
+Style profiles influence the musical behavior of generated patterns and provide different creative directions.
+
+---
+
+## ⚡ Workflow
+
+Genesis V2 is built around a continuous creative workflow:
+
+**GENERATE**
+
+Create a musical starting point.
+
+**HEAR**
+
+Preview the idea instantly.
+
+**EXPLORE**
+
+Generate alternatives and compare directions.
+
+**EDIT**
+
+Use the Piano Roll, Locks and Morph to develop the idea.
+
+**SAVE**
+
+Keep promising patterns in History.
+
+**RECALL**
+
+Return to previous ideas whenever needed.
+
+**DRAG TO DAW**
+
+Move the final MIDI directly into your production.
+
+---
+
+# 🌌 The ABYZOR Ecosystem
+
+Genesis is the first step in a larger creative workflow.
+
+### GENESIS
+**IDEA GENERATION**
+
+Generate the starting point.
+
+### VARIATIONS
+**COMPOSITION WORKFLOW**
+
+Turn one musical idea into an entire composition.
+
+### ONE
+**ARTIST IDENTITY**
+
+Build your artist identity.
+
+---
+
+## Genesis Is Free Forever
+
+Genesis V2 removes the internal Pro paywall.
+
+There is no locked Pro version inside Genesis.
+
+**Genesis is free forever.**
+
+The ecosystem is built around different creative purposes rather than locking essential Genesis functionality behind Genesis itself.
+
+---
+
+# Download
 
 Download the latest release:
 
@@ -91,8 +252,9 @@ https://github.com/abyzor/abyzor-genesis/releases/latest
 
 ## Platform
 
-- ✅ **Windows** (VST3)
-- ✅ **macOS** (VST3 & AU)
+- ✅ **Windows** — VST3
+- ✅ **macOS** — VST3 & AU
+- ✅ Intel & Apple Silicon
 
 ---
 
@@ -120,6 +282,8 @@ https://abyzor.space/support
 
 Leave a review on **KVR Audio** and help shape future updates.
 
+Your feedback helps shape future Genesis releases.
+
 ---
 
 # Support & Feedback
@@ -140,7 +304,7 @@ https://github.com/abyzor/abyzor-genesis/discussions
 
 ---
 
-# Support Abyzor
+# Support ABYZOR
 
 If you enjoy Genesis and want to support future plugin development:
 
@@ -150,6 +314,6 @@ If you enjoy Genesis and want to support future plugin development:
 
 # License
 
-Genesis is provided free of charge by Abyzor.
+Genesis is provided free of charge by ABYZOR.
 
-**Generate. Evolve. Create.**
+**Generate. Explore. Create.**
