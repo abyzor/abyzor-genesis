@@ -1,6 +1,7 @@
 # ABYZOR Genesis
 
 ## Free VST3 MIDI Generator for Electronic Music Producers.
+> ⚠️ **Using v2.0.0?** The in-app updater is not working in this version. Please **download and install v2.0.1 manually**.
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
