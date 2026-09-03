@@ -1,15 +1,16 @@
 # ABYZOR Genesis
 
-## Free VST3 MIDI Generator for Electronic Music Producers.
-> ⚠️ **Using v2.0.0?** The in-app updater is not working in this version. Please **download and install v2.0.1 manually**.
+## Free VST3 MIDI Generator for Electronic Music Producers
+
+> ⚠️ **Using v2.0.0?** The in-app updater is not working in this version. Please **download and install v2.1.0 manually**.
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
-<img width="1327" height="851" alt="ABYZOR Genesis V2" src="https://github.com/user-attachments/assets/0a556b7c-7ac7-455e-be8c-fdaa1a8949d2" />
+<img width="1327" height="851" alt="ABYZOR Genesis V2" src="https://github.com/user-attachments/assets/7ace17c5-c8c7-46f5-9a55-fece8da46d6b" />
 
 <p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
-<img src="https://img.shields.io/badge/version-v2.0.1-blue" />
+<img src="https://img.shields.io/badge/version-v2.1.0-blue" />
 <img src="https://img.shields.io/badge/price-Free-success" />
 <img src="https://img.shields.io/badge/Windows-VST3-purple" />
 <img src="https://img.shields.io/badge/macOS-VST3_|_AU-purple" />
@@ -23,7 +24,7 @@ Genesis V2 is a major evolution of ABYZOR Genesis.
 
 More than a MIDI generator, Genesis is the **starting point of the ABYZOR creative ecosystem** — designed to help producers generate ideas, explore possibilities, develop musical concepts, save their work, and move directly into their DAW.
 
-### The workflow
+### The Workflow
 
 **Generate → Hear → Explore → Edit → Save → Recall → Drag to DAW**
 
@@ -31,9 +32,9 @@ Genesis remains **FREE FOREVER**.
 
 ---
 
-## Features
+# Features
 
-### 🎼 MIDI Generation
+## 🎼 MIDI Generation
 
 - Generate Melodies, Basslines, Chords & Arpeggios
 - 10 Electronic Music Genres
@@ -50,18 +51,23 @@ Genesis remains **FREE FOREVER**.
 - **Phrase Extensions** for more natural loop endings
 - Improved Chord Generation with automatic validation and safe fallback
 - Pitch Variety Enhancement
-- Melodic Gravity for More Natural Phrases
+- Melodic Gravity for more natural phrases
 
-### 💡 4 Ideas
+---
+
+## 💡 4 Ideas
 
 Explore multiple musical directions at once.
 
 - Generate **4 ideas** in a single action
 - Compare ideas visually
+- Explore different seeds and musical directions
 - Select the idea with the most potential
 - Adopt the selected idea as your active pattern
 
-### 🔒 Locks
+---
+
+## 🔒 Locks
 
 Keep what works and regenerate what doesn't.
 
@@ -69,9 +75,11 @@ Keep what works and regenerate what doesn't.
 - **LOCK PITCH**
 - Preserve selected musical characteristics while generating new material
 
-### 🌀 Morph
+---
 
-#### MORPH TO
+## 🌀 Morph
+
+### MORPH TO
 
 Move an idea toward another musical style.
 
@@ -79,7 +87,9 @@ Move an idea toward another musical style.
 - StyleDNA-based morphing
 - Explore new directions without starting from scratch
 
-### 🌳 Ancestry
+---
+
+## 🧬 Ancestry
 
 Track how your ideas evolve.
 
@@ -91,13 +101,15 @@ Genesis V2 keeps an ancestry tree of your creative process, including:
 - Import
 - Variation
 
-Follow an idea from its origin through its different creative stages.
+Follow an idea from its origin through different creative stages.
 
-### 🌐 Seed Share
+---
+
+## 🌐 Seed Share
 
 Share and recreate musical ideas using deterministic seeds.
 
-- Deterministic 25-character seeds
+- Deterministic seeds
 - Share ideas through URLs
 - Recreate shared ideas inside Genesis
 
@@ -105,7 +117,58 @@ Example:
 
 `https://abyzor.space/s/{seed}`
 
-### 🎛 Creative Controls
+---
+
+# 🧱 BLOCKS — Call & Response
+
+Genesis v2.1 introduces **BLOCKS**, a structured generation workflow based on the classic **Call & Response** concept.
+
+Split a loop into two musical sections:
+
+**A → Call / Question / Tension**
+
+**B → Response / Resolution**
+
+BLOCKS keeps melody, bass, chords and arpeggios aligned across both sections.
+
+### BLOCKS Features
+
+- **BLOCKS Mode** — divide the loop into Block A and Block B
+- **Harmonic Progressions per Block**
+- **REGEN BLOCK** — regenerate only A or B while preserving the other
+- **A/B Block Selection**
+- Visual **A|B split** inside the Piano Roll
+- Works with melody, bass, chords and arpeggios
+- Available for loops of **2 bars or longer**
+- BLOCKS is **OFF by default** to preserve the standard Genesis workflow
+
+### REGEN BLOCK
+
+Regenerate one section without destroying the other.
+
+- Select **A** or **B**
+- Regenerate only the selected block
+- Preserve the untouched block
+- Uses current **MUSIC + FEEL + SHAPE** parameters
+- Real-time preview updates while playing
+
+---
+
+## ✨ REFINE
+
+**REFINE — Make it musical**
+
+Turn an existing pattern into a more structured musical phrase.
+
+- Converts patterns into a **Call → Response** structure
+- One-click refinement
+- Immediate undo
+- Adaptive **ABAC** structure
+- Keeps the original musical idea while improving its phrasing
+
+---
+
+# 🎛 Creative Controls
 
 - Groove Templates
 - Straight, Swing, House, DnB & more
@@ -114,19 +177,21 @@ Example:
 - Tension Macro for Instant Energy Control
 - Deterministic Seed System
 - One-Click Random Inspiration
-- **Bass Motion**
-  - Auto
-  - Low Only
-  - Root + Fifth
-  - Octave Both
+
+### Bass Motion
+
+- Auto
+- Low Only
+- Root + Fifth
+- Octave Both
 
 ---
 
-## 🎹 Piano Roll & History
+# 🎹 Piano Roll & History
 
 Genesis V2 includes an improved editing and idea-management workflow.
 
-### Piano Roll
+## Piano Roll
 
 - Editable MIDI Piano Roll
 - Real-Time Pattern Editing
@@ -134,8 +199,9 @@ Genesis V2 includes an improved editing and idea-management workflow.
 - Manual Edit Protection
 - Improved visual feedback
 - Improved pattern preview
+- Visual A|B block separation when BLOCKS is enabled
 
-### History
+## History
 
 Save and revisit your ideas without losing your creative direction.
 
@@ -150,7 +216,7 @@ Save and revisit your ideas without losing your creative direction.
 
 ---
 
-## 🎧 Audio Preview
+# 🎧 Audio Preview
 
 Hear ideas before exporting them.
 
@@ -166,9 +232,9 @@ Hear ideas before exporting them.
 
 ---
 
-## 🎨 Expanded Style System
+# 🎨 Expanded Style System
 
-Genesis V2 expands the creative library with:
+Genesis V2 includes an expanded creative library:
 
 **10 categories · 51 presets**
 
@@ -176,35 +242,39 @@ Style profiles influence the musical behavior of generated patterns and provide 
 
 ---
 
-## ⚡ Workflow
+# ⚡ Complete Creative Workflow
 
-Genesis V2 is built around a continuous creative workflow:
+Genesis is built around a continuous creative process:
 
-**GENERATE**
+### GENERATE
 
 Create a musical starting point.
 
-**HEAR**
+### HEAR
 
 Preview the idea instantly.
 
-**EXPLORE**
+### EXPLORE
 
 Generate alternatives and compare directions.
 
-**EDIT**
+### REFINE
 
-Use the Piano Roll, Locks and Morph to develop the idea.
+Shape the idea into a stronger musical phrase.
 
-**SAVE**
+### EDIT
+
+Use the Piano Roll, Locks, Morph and BLOCKS to develop the idea.
+
+### SAVE
 
 Keep promising patterns in History.
 
-**RECALL**
+### RECALL
 
 Return to previous ideas whenever needed.
 
-**DRAG TO DAW**
+### DRAG TO DAW
 
 Move the final MIDI directly into your production.
 
@@ -215,25 +285,28 @@ Move the final MIDI directly into your production.
 Genesis is the first step in a larger creative workflow.
 
 ### GENESIS
+
 **IDEA GENERATION**
 
 Generate the starting point.
 
 ### VARIATIONS
+
 **COMPOSITION WORKFLOW**
 
 Turn one musical idea into an entire composition.
 
 ### ONE
+
 **ARTIST IDENTITY**
 
 Build your artist identity.
 
 ---
 
-## Genesis Is Free Forever
+# Genesis Is Free Forever
 
-Genesis V2 removes the internal Pro paywall.
+Genesis V2 has **no internal Pro paywall**.
 
 There is no locked Pro version inside Genesis.
 
