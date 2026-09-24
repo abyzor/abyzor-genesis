@@ -21,9 +21,9 @@ Generate melodies, basslines, chord progressions, and arpeggios instantly for Te
 # Genesis V2 - The Ecosystem Update
 
 <p align="center">
-<img width="1327" height="859" alt="theme 1" src="https://github.com/user-attachments/assets/ddbf6ab7-b2cc-4cf3-8927-89c35e8909f5" />
-<img width="1328" height="860" alt="theme 2" src="https://github.com/user-attachments/assets/aef73dd6-7bc6-465d-9799-4faf7f4d5269" />
-<img width="1331" height="854" alt="theme 3" src="https://github.com/user-attachments/assets/263a3cfe-88ec-4140-8e34-efeda75551db" />
+  <img width="32%" alt="theme 1" src="https://github.com/user-attachments/assets/ddbf6ab7-b2cc-4cf3-8927-89c35e8909f5" />
+  <img width="32%" alt="theme 2" src="https://github.com/user-attachments/assets/aef73dd6-7bc6-465d-9799-4faf7f4d5269" />
+  <img width="32%" alt="theme 3" src="https://github.com/user-attachments/assets/263a3cfe-88ec-4140-8e34-efeda75551db" />
 </p>
 
 
