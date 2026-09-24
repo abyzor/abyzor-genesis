@@ -6,7 +6,7 @@
 
 Generate melodies, basslines, chord progressions, and arpeggios instantly for Techno, Trance, Psytrance, Drum & Bass, House, and other electronic music genres.
 
-<img width="1327" height="851" alt="ABYZOR Genesis V2" src="https://github.com/user-attachments/assets/7ace17c5-c8c7-46f5-9a55-fece8da46d6b" />
+<img width="1327" height="851" alt="ABYZOR Genesis V2" src="https://github.com/user-attachments/assets/702611fd-9767-4397-a174-f8ff35ac4c88" />
 
 <p align="center">
 <img src="https://img.shields.io/github/downloads/abyzor/abyzor-genesis/total?label=Downloads&logo=github" />
